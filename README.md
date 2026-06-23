@@ -26,7 +26,6 @@ Excel_Project_Dataset.xlsx
 ## Dashboard Screenshot
 
 <img width="676" height="460" alt="1" src="https://github.com/user-attachments/assets/518a5a1c-4ebd-4375-af8b-dd44759d7102" />
---- 
 
 ## Key Findings
 
