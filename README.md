@@ -37,7 +37,11 @@ Excel_Project_Dataset.xlsx
 | **Occupation** | Professionals convert at **54%**; Management lowest at 42% |
 
 ---
+## Dashboard Screenshot
 
+<img width="676" height="460" alt="1" src="https://github.com/user-attachments/assets/518a5a1c-4ebd-4375-af8b-dd44759d7102" />
+
+---
 ## Ideal Buyer Persona
 
 > Single professional, aged 36–54, earning $55K–$80K, commuting under 5 miles — most likely in the Pacific region.
@@ -60,4 +64,4 @@ Data cleaning · Nested `IF` for derived columns · Pivot Tables · Pivot Charts
 
 ---
 
-*[Your Name] | Excel Portfolio Project*
+*[Onismus Mamaila] | Junior BI & Data Insights Analyst*
